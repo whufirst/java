@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 // test for push command again in Github repo
+=======
+// test for push command again in master
+>>>>>>> 10b0beea5c034c7758b7021be51212b2ee656fd8
 
 /*	compiling and executing:
 1.	javac HelloWorld.java	// must have the same name with the class name in the following, then plus suffix .java.
