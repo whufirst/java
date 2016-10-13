@@ -1,4 +1,4 @@
-// two different changes coupled and contained.
+// two different changes coupled and contained. Quite thoughtful!
 
 <<<<<<< HEAD
 // test for push command again in Github repo
