@@ -1,4 +1,4 @@
-// new start
+// new start from Github repo to local
 
 /*	compiling and executing:
 1.	javac HelloWorld.java	// must have the same name with the class name in the following, then plus suffix .java.
