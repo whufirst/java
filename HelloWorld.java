@@ -1,3 +1,4 @@
+// two different changes coupled.
 <<<<<<< HEAD
 // test for push command again in Github repo
 =======
